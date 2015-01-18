@@ -25,8 +25,8 @@
 </form>
 <?php
   // DB connection info
-  $host = "tcp:yjjy54mc4i";
-  $user = "SQLAdmin@yjjy54mc4i.database.windows.net";
+  $host = "tcp:yjjy54mc4i.database.windows.net";
+  $user = "SQLAdmin@yjjy54mc4i";
   $pwd = "Mhacks12345";
   $db = "tasklist";
   // Connect to database.
